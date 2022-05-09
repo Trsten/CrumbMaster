@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "type": 0,
+    "title":"Make 200 crumbs on the map",
+    "goal": 200,
+    "progress": 0,
+    "points": 15,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 1,
+    "type": 0,
+    "title":"Make 300 crumbs on the map",
+    "goal": 300,
+    "progress": 0,
+    "points": 20,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 2,
+    "type": 0,
+    "title":"Make 400 crumbs on the map",
+    "goal": 400,
+    "progress": 0,
+    "points": 25,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "goal": 5,
+    "progress": 0,
+    "title":"Discovere 5 new streets",
+    "points": 15,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "goal": 6,
+    "progress": 0,
+    "title":"Discovere 6 new streets",
+    "points": 20,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "goal": 7,
+    "progress": 0,
+    "title":"Discovere 7 new streets",
+    "points": 25,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 6,
+    "type": 2,
+    "goal": 50,
+    "progress": 0,
+    "title":"Make 50 crumbs on the streets, starting with G",
+    "points": 25,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 7,
+    "type": 2,
+    "goal": 50,
+    "progress": 0,
+    "title":"Make 50 crumbs on the streets, starting with A",
+    "points": 20,
+    "active": false,
+    "obtained": false
+  },
+  {
+    "id": 8,
+    "type": 2,
+    "goal": 50,
+    "progress": 0,
+    "title":"Make 50 crumbs on the streets, starting with K",
+    "points": 30,
+    "active": false,
+    "obtained": false
+  }
+]
